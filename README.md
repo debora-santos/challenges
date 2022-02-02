@@ -1,1 +1,1 @@
-# challenges
+# Some challenges to study programming
