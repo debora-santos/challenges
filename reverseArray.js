@@ -30,3 +30,4 @@ function reverseArray (array) {
 }
 
 reverseArray([55, 1, 2, 3, 7, 10, 8]);
+// output: [ 8, 10, 7, 3, 2, 1, 55 ]
